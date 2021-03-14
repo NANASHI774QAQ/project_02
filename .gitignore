@@ -1,0 +1,8 @@
+# 忽略index.css文件
+index.css
+
+# 忽略 使用文本
+git初次使用说明.txt
+
+# 忽略 test 目录下所有的文件
+test/
